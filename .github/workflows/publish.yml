@@ -1,4 +1,3 @@
-# Copyright 2024 Caroline Blank <caro@c-space.org>
 # Copyright 2024 Remy Blank <remy@c-space.org>
 # SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
@@ -18,7 +17,8 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
+  publish:
+    name: Publish
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
