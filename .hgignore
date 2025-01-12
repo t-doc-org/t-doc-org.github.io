@@ -4,4 +4,6 @@ __pycache__
 
 syntax: regexp
 ^_build/
+^_venv/
+^docs/_build/
 ^tmp/
