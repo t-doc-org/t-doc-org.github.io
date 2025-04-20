@@ -20,7 +20,7 @@ Les collections suivantes sont actuellement disponibles:
 La documentation du logiciel utilisé pour la création de documents est
 elle-aussi hébergée ici:
 
-- [`t-doc-common`](https://t-doc.org/common/): Un thème et une extension
+- [`t-doc-common`](https://common.t-doc.org/): Un thème et une extension
   [Sphinx](https://www.sphinx-doc.org/), un serveur de développement, ainsi
   qu'un système de deploiement automatique sur
   [GitHub Pages](https://pages.github.com/).
