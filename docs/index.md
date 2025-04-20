@@ -5,15 +5,15 @@
 
 Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
-## Collections
+## Sites
 
-Les collections suivantes sont actuellement disponibles:
+Les sites suivantes sont actuellement disponibles:
 
 - [Informatique](https://t-doc.org/informatique/) (niveau collège 1{sup}`re` et
   2{sup}`e`) par Caroline Blank
-- [Informatique](https://t-doc.org/janm/) (niveau collège 1{sup}`re` et
+- [Informatique](https://janm.t-doc.org/) (niveau collège 1{sup}`re` et
   2{sup}`e`) par Maxime Jan
-- [AI teaching](https://t-doc.org/ai-teaching/) par Brice Canvel
+- [AI teaching](https://ai-teaching.t-doc.org/) par Brice Canvel
 
 ## Documentation
 
