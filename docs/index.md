@@ -9,7 +9,7 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
 Les sites suivantes sont actuellement disponibles:
 
-- [Informatique](https://t-doc.org/informatique/) (niveau collège 1{sup}`re` et
+- [Informatique](https://informatique.t-doc.org/) (niveau collège 1{sup}`re` et
   2{sup}`e`) par Caroline Blank
 - [Informatique](https://janm.t-doc.org/) (niveau collège 1{sup}`re` et
   2{sup}`e`) par Maxime Jan
