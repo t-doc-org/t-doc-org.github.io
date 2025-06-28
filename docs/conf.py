@@ -12,7 +12,7 @@ language = 'fr'
 # myst_links_external_new_tab = True
 
 html_theme_options = {
-    'repository_url': 'https://github.com/t-doc-org/t-doc-org.github.io',
+    # 'repository_url': 'https://github.com/t-doc-org/t-doc-org.github.io',
 }
 
 # Serve as domain storage.
