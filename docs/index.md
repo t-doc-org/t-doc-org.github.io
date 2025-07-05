@@ -7,13 +7,12 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
 ## Sites
 
-Les sites suivantes sont actuellement disponibles:
+Les sites suivants sont actuellement disponibles:
 
-- [Informatique](https://informatique.t-doc.org/) (niveau collège 1{sup}`re` et
-  2{sup}`e`) par Caroline Blank
-- [Informatique](https://janm.t-doc.org/) (niveau collège 1{sup}`re` et
-  2{sup}`e`) par Maxime Jan
-- [AI teaching](https://ai-teaching.t-doc.org/) par Brice Canvel
+- [Informatique](https://informatique.t-doc.org/), de Caroline Blank
+- [Informatique](https://janm.t-doc.org/), de Maxime Jan
+- [Informatique](https://enci.t-doc.org/), d'Iliya Enchev
+- [AI teaching](https://ai-teaching.t-doc.org/), de Brice Canvel
 
 ## Documentation
 
