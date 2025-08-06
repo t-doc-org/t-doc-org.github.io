@@ -9,6 +9,7 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
 Les sites suivants sont actuellement disponibles:
 
+- [Mathématiques](https://maths.t-doc.org/), de Caroline Blank
 - [Informatique](https://informatique.t-doc.org/), de Caroline Blank
 - [Informatique](https://janm.t-doc.org/), de Maxime Jan
 - [Informatique](https://enci.t-doc.org/), d'Iliya Enchev
