@@ -5,7 +5,7 @@ from tdoc.common.defaults import *
 from tdoc.common.wsgi import hostname_re
 
 project = "t-doc.org"
-copyright = "%Y Remy Blank"
+author = "Remy Blank"
 license = 'CC-BY-NC-SA-4.0'
 language = 'fr'
 
