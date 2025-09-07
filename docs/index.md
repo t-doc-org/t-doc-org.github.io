@@ -7,13 +7,15 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
 ## Sites
 
-Les sites suivants sont actuellement disponibles:
-
-- [Mathématiques](https://maths.t-doc.org/), de Caroline Blank
-- [Informatique](https://informatique.t-doc.org/), de Caroline Blank
-- [Informatique](https://janm.t-doc.org/), de Maxime Jan
-- [Informatique](https://enci.t-doc.org/), d'Iliya Enchev
-- [AI teaching](https://ai-teaching.t-doc.org/), de Brice Canvel
+- **Caroline Blank**, Collège Sainte-Croix, Fribourg
+  - [Mathématiques](https://maths.t-doc.org/)
+  - [Informatique](https://informatique.t-doc.org/)
+- **Maxime Jan**, Collège Sainte-Croix, Fribourg
+  - [Informatique](https://janm.t-doc.org/)
+- **Iliya Enchev**, Collège du Sud, Bulle
+  - [Informatique](https://enci.t-doc.org/)
+- **Brice Canvel**
+  - [AI teaching](https://ai-teaching.t-doc.org/)
 
 ## Documentation
 
