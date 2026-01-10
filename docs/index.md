@@ -14,8 +14,6 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
   - [Informatique](https://janm.t-doc.org/)
 - **Iliya Enchev**, Collège du Sud, Bulle
   - [Informatique](https://enci.t-doc.org/)
-- **Brice Canvel**
-  - [AI teaching](https://ai-teaching.t-doc.org/)
 
 ## Documentation
 
