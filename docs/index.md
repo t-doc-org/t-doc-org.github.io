@@ -12,6 +12,8 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
   - [Informatique](https://informatique.t-doc.org/)
 - **Maxime Jan**, Collège Sainte-Croix, Fribourg
   - [Informatique](https://janm.t-doc.org/)
+- **Brice Canvel**, Collège Sainte-Croix, Fribourg
+  - [Documents de cours](https://canb.t-doc.org/)
 - **Iliya Enchev**, Collège du Sud, Bulle
   - [Informatique](https://enci.t-doc.org/)
 
