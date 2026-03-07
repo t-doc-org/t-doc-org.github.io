@@ -3,6 +3,12 @@
 
 # Teacher's docs
 
+```{toctree}
+:maxdepth: 1
+:hidden:
+about
+```
+
 Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
 ## Sites
@@ -26,9 +32,3 @@ elle-aussi hébergée ici:
   [Sphinx](https://www.sphinx-doc.org/), un serveur de développement, ainsi
   qu'un système de deploiement automatique sur
   [GitHub Pages](https://pages.github.com/).
-
-```{toctree}
-:maxdepth: 1
-:hidden:
-about
-```
