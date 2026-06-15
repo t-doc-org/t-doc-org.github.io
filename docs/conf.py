@@ -21,5 +21,5 @@ html_theme_options = {
 tdoc_domain_storage = {
     **tdoc_domain_storage,
     'allowed_origins': rf'^https://(?:{hostname_re}\.)?t-doc\.org$',
-    'allowed_keys': '^tdoc:(api(-dev)?:user|clientId)$',
+    'allowed_keys': '^tdoc:(api(-dev|-staging)?:user|clientId)$',
 }
