@@ -22,6 +22,8 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
   - [Documents de cours](https://canb.t-doc.org/)
 - **Iliya Enchev**, Collège du Sud, Bulle
   - [Informatique](https://enci.t-doc.org/)
+- **Sylvain Stotzer**, Collège St-Michel, Fribourg
+  - [Documents de cours](https://stotzers.t-doc.org/)
 
 ## Documentation
 
