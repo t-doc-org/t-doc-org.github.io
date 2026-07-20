@@ -4,7 +4,6 @@
 # Teacher's docs
 
 ```{toctree}
-:maxdepth: 1
 :hidden:
 about
 ```
