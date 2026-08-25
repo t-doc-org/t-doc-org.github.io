@@ -12,17 +12,24 @@ Ce site héberge des **documents de cours interactifs** pour l'enseignement.
 
 ## Sites
 
-- **Caroline Blank**, Collège Sainte-Croix, Fribourg
-  - [Mathématiques](https://maths.t-doc.org/)
-  - [Informatique](https://informatique.t-doc.org/)
-- **Maxime Jan**, Collège Sainte-Croix, Fribourg
-  - [Informatique](https://janm.t-doc.org/)
-- **Brice Canvel**, Collège Sainte-Croix, Fribourg
-  - [Documents de cours](https://canb.t-doc.org/)
-- **Iliya Enchev**, Collège du Sud, Bulle
-  - [Informatique](https://enci.t-doc.org/)
-- **Sylvain Stotzer**, Collège St-Michel, Fribourg
-  - [Documents de cours](https://stotzers.t-doc.org/)
+{.none .columns-2}
+- ```{card} Collège Sainte-Croix, Fribourg
+  - Caroline Blank
+    - [Mathématiques](https://maths.t-doc.org/)
+    - [Informatique](https://informatique.t-doc.org/)
+  - Maxime Jan
+    - [Informatique](https://janm.t-doc.org/)
+  - Brice Canvel
+    - [Documents de cours](https://canb.t-doc.org/)
+  ```
+- ```{card} Collège du Sud, Bulle
+  - Iliya Enchev
+    - [Informatique](https://enci.t-doc.org/)
+  ```
+- ```{card} Collège St-Michel, Fribourg
+  - Sylvain Stotzer
+    - [Documents de cours](https://stotzers.t-doc.org/)
+  ```
 
 ## Documentation
 

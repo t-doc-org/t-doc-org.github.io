@@ -6,7 +6,7 @@
 t-doc est une plateforme pour la **création et la publication de documents de
 cours interactifs** pour l'enseignement. Elle est développée par Caroline Blank,
 enseignante au [Collège Sainte-Croix](https://cscfr.ch/) à Fribourg, et ses
-[minions](https://fr.wikipedia.org/wiki/Les_Minions).
+[minions](https://en.wikipedia.org/wiki/Minions_\(Despicable_Me\)).
 
 A l'origine, t-doc est née du désir de **combiner des séquences théoriques et
 pratiques** pour l'enseignement de l'informatique sur un site web, sans
