@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: CC-BY-NC-SA-4.0
 
 from tdoc.common.defaults import *
-from tdoc.common.wsgi import hostname_re
+from tdoc.common.http import hostname_re
 
 project = "t-doc.org"
 author = "Remy Blank"
