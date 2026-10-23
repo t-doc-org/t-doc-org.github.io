@@ -19,7 +19,6 @@ html_theme_options = {
 
 # Serve as domain storage.
 tdoc_domain_storage = {
-    **tdoc_domain_storage,
     'allowed_origins': rf'^https://(?:{hostname_re}\.)?t-doc\.org$',
     'allowed_keys': '^tdoc:domain:.*$',
 }
